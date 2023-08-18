@@ -7,3 +7,4 @@ Belajar kelas Belajar Dasar Git dengan Github. (Progress 38%)
 * Belajar tentang apa itu Git dan GitHub
 
 * Belajar membuat, mengedit repository
+* Belajar kolaborasi tim
